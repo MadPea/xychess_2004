@@ -1,0 +1,8 @@
+# White Chair Position
+<0, -1.656, -0.477>
+# White Chair Rotation
+<0, 0, -0.70710678, 0.70710678>
+# Black Chair Position
+<0, 1.544, -0.477>
+# Black Chair Rotation
+<0, 0, 0.70710678, 0.70710678>
